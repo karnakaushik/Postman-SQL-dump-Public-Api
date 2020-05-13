@@ -13,13 +13,13 @@ d) Run the new-api.py file to start crawling. "python3 new-api.py"
 
 note:- Make sure to install mysql-connector and urlib.parse from pip
 
-2. Details of tables and schema
+# 2. Details of tables and schema
 
 In order to keep the code scalable I've written the code to create the tables itself so that when new categories will be added we don't have to create table seperately. A sql-dump of the file will also be included in the repository.
 
 note:- Only thing is to create a database called "newtest" in MySQL instance. "Create database newtest"
 
-3. Points Achieved
+# 3. Points Achieved
 
 All the mentioned points were achieved and steps taken were as follows: -
 

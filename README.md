@@ -1,7 +1,7 @@
 # Postman-SQL-dump-Public-Api
 A web crawler to create SQL dump of some public APIs
 
-1. Running the code
+# 1. Running the code
 
 a) Start a local instance of MySQL DB on default port.
 

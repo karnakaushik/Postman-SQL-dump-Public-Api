@@ -25,8 +25,5 @@ class MySql:
         self.mycursor.execute(sql)
         self.mydb.commit()
         print("Created " + category)
-
-
-
-# myobj = MySql()
-# myobj.insert( {"API":"Dogs","Description":"Based on the Stanford Dogs Dataset","Auth":"","HTTPS":True,"Cors":"yes","Link":"https://dog.ceo/dog-api/","Category":"Animals"}, 'Animals')
+        
+        
